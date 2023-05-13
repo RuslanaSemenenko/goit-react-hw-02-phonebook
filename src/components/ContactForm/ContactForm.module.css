@@ -51,6 +51,6 @@
   background-color: #303f9f;
 }
 
-.TaskEditorinput:focus {
+.TaskEditor_input:focus {
   border: 1px solid #2b32b2;
 }

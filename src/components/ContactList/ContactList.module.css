@@ -5,7 +5,7 @@
 .TaskList_item {
   display: flex;
   align-items: center;
-  padding: 12px;
+  padding: 5px;
 }
 
 .TaskList_item + .TaskList_item {
